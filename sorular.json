@@ -1,0 +1,110 @@
+[
+  {
+    "soruno": "28",
+    "Soru": "Direnç",
+    "SoruFoto": "https://www.karekodapp.online/deneme.html",
+    "Asikki": "https://www.karekodapp.online/deneme.html",
+    "Bsikki": "Alpha Centauri A",
+    "Csikki": "https://www.electrokit.com/uploads/productimage/40810/40810722_41404_Motst%C3%A5nd-kolfilm-0.25W-22Mohm-22M.png",
+    "Dsikki": "1"
+  },
+  {
+    "soruno": "29",
+    "Soru": "Kondansatör",
+    "SoruFoto": "https://www.karekodapp.online/deneme.html",
+    "Asikki": "https://www.karekodapp.online/enes.html",
+    "Bsikki": "Proxima Centauri",
+    "Csikki": "https://www.aydinlatma.org/wp-content/uploads/2018/12/Kondansator.jpg",
+    "Dsikki": "0"
+  },
+  {
+    "soruno": "30",
+    "Soru": "Apollo",
+    "SoruFoto": "https://www.karekodapp.online/deneme.html",
+    "Asikki": "https://www.karekodapp.online/deneme.html",
+    "Bsikki": "Venus",
+    "Csikki": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/apollo.jpg",
+    "Dsikki": "1"
+  },
+  {
+    "soruno": "31",
+    "Soru": "Pioneer",
+    "SoruFoto": "https://www.karekodapp.online/deneme.html",
+    "Asikki": "https://www.karekodapp.online/deneme.html",
+    "Bsikki": "Saturn",
+    "Csikki": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/pioneer.jpg",
+    "Dsikki": "0"
+  },
+  {
+    "soruno": "32",
+    "Soru": "James Web",
+    "SoruFoto": "https://www.karekodapp.online/deneme.html",
+    "Asikki": "https://www.karekodapp.online/deneme.html",
+    "Bsikki": "Asterosoruno Belt",
+    "Csikki": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/spitzer.jpg",
+    "Dsikki": "1"
+  },
+  {
+    "soruno": "33",
+    "Soru": "WMAP",
+    "SoruFoto": "https://www.karekodapp.online/deneme.html",
+    "Asikki": "https://www.karekodapp.online/deneme.html",
+    "Bsikki": "Canis Majos",
+    "Csikki": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/wmap.jpg",
+    "Dsikki": "0"
+  },
+  {
+    "soruno": "34",
+    "Soru": "Kepler",
+    "SoruFoto": "https://www.karekodapp.online/deneme.html",
+    "Asikki": "https://www.karekodapp.online/deneme.html",
+    "Bsikki": "Uranus",
+    "Csikki": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/kepler.jpg",
+    "Dsikki": "1"
+  },
+  {
+    "soruno": "35",
+    "Soru": "Enterprise",
+    "SoruFoto": "https://www.karekodapp.online/deneme.html",
+    "Asikki": "https://www.karekodapp.online/deneme.html",
+    "Bsikki": "Pluto",
+    "Csikki": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/enterprise.jpg",
+    "Dsikki": "0"
+  },
+  {
+    "soruno": "36",
+    "Soru": "Rostter",
+    "SoruFoto": "https://www.karekodapp.online/deneme.html",
+    "Asikki": "https://www.karekodapp.online/deneme.html",
+    "Bsikki": "Mercury",
+    "Csikki": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/rosetta.jpg",
+    "Dsikki": "1"
+  },
+  {
+    "soruno": "37",
+    "Soru": "Columbia",
+    "SoruFoto": "https://www.karekodapp.online/deneme.html",
+    "Asikki": "https://www.webtekno.com/whatsapp-yanlis-bilgilerin-yayilmasini-onleyen-ozellik-h97535.html",
+    "Bsikki": "Alpha Centauri",
+    "Csikki": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/columbia.jpg",
+    "Dsikki": "1"
+  },
+  {
+    "soruno": "38",
+    "Soru": "Hubble",
+    "SoruFoto": "https://www.karekodapp.online/deneme.html",
+    "Asikki": "https://www.karekodapp.online/deneme.html",
+    "Bsikki": "Cosmos Redshift",
+    "Csikki": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/hubble.jpg",
+    "Dsikki": "0"
+  },
+   {
+    "soruno": "39",
+    "Soru": "Spitzer",
+    "SoruFoto": "https://www.karekodapp.online/deneme.html",
+    "Asikki": "https://www.karekodapp.online/deneme.html",
+    "Bsikki": "Bernard 68",
+    "Csikki": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/spitzer.jpg",
+    "Dsikki": "1"
+  }
+]
